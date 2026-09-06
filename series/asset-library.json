@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "characters": [
+    {
+      "id": "kavero",
+      "name": "Kavero",
+      "sheet": "characters/individual/kavero/character-sheet.png",
+      "profile": "characters/profiles/kavero.md",
+      "sha256": "f14bbfab28b1350cf4d15e218a26edf9ea4642602ab840de5e42358201fa0780"
+    },
+    {
+      "id": "poppy",
+      "name": "Poppy",
+      "sheet": "characters/individual/poppy/character-sheet.png",
+      "profile": "characters/profiles/poppy.md",
+      "sha256": "a99122e8fa644afe5619afdb38f5d008d50c599c200ea6ac0da76be4bc88f505"
+    },
+    {
+      "id": "pip",
+      "name": "Pip",
+      "sheet": "characters/individual/pip/character-sheet.png",
+      "profile": "characters/profiles/pip.md",
+      "sha256": "9199857c79fb9375add0f7393d5be1a6331f46d505fdd1e3d185d50f1e82aa55"
+    },
+    {
+      "id": "toby",
+      "name": "Toby",
+      "sheet": "characters/individual/toby/character-sheet.png",
+      "profile": "characters/profiles/toby.md",
+      "sha256": "ed2b50d9d1f1c452d3f8ac2d9874863c85b09e99f9eaa50f790c0874c46eabaa"
+    },
+    {
+      "id": "millie",
+      "name": "Millie",
+      "sheet": "characters/individual/millie/character-sheet.png",
+      "profile": "characters/profiles/millie.md",
+      "sha256": "8d580a890e52e5c99612ab3e68fd72f388bc93a45ebc41026923ea3ba54ff63e"
+    },
+    {
+      "id": "granny",
+      "name": "Granny",
+      "sheet": "characters/individual/granny/character-sheet.png",
+      "profile": "characters/profiles/granny.md",
+      "sha256": "7e397cf5b0a416ecb3f9f965b934f951bf8bb6f8f480a4dbdee9c189d73b11c8"
+    },
+    {
+      "id": "mum",
+      "name": "Mum",
+      "sheet": "characters/individual/mum/character-sheet.png",
+      "profile": "characters/profiles/mum.md",
+      "sha256": "7efc64625fdbb7b7035464490f08359d30129e3c4e3a15c8d5d2425f3450056f"
+    },
+    {
+      "id": "dad",
+      "name": "Dad",
+      "sheet": "characters/individual/dad/character-sheet.png",
+      "profile": "characters/profiles/dad.md",
+      "sha256": "d22df8ca72cc108dad9136ee3020bcdf2198b483e93c18b3ee0f922a057f20fc"
+    },
+    {
+      "id": "mr-bell",
+      "name": "Mr Bell",
+      "sheet": "characters/individual/mr-bell/character-sheet.png",
+      "profile": "characters/profiles/mr-bell.md",
+      "sha256": "65d43ad120bc6d1adfd4085e7ceb4c4d62016cfcb5d4d01c30e6b08e1622d323"
+    },
+    {
+      "id": "ms-reed",
+      "name": "Ms Reed",
+      "sheet": "characters/individual/ms-reed/character-sheet.png",
+      "profile": "characters/profiles/ms-reed.md",
+      "sha256": "c90101e62ad619eb2452a8f81ebb2c26415dfc8eb85a16a0a821503fc001aef5"
+    },
+    {
+      "id": "biscuit",
+      "name": "Biscuit",
+      "sheet": "characters/individual/biscuit/character-sheet.png",
+      "profile": "characters/profiles/biscuit.md",
+      "sha256": "dbaf9b11822036374bb29e62d65901f3f6982b3c3f629efbf9239e7b2f52c70c"
+    },
+    {
+      "id": "miette",
+      "name": "Miette",
+      "sheet": "characters/individual/miette/character-sheet.png",
+      "profile": "characters/profiles/miette.md",
+      "sha256": "9996588b7c6a65d0d844f9772ed3cc346d50807887d7aa015bdc30197493f694"
+    }
+  ],
+  "sourcePolicy": "Keep originals; exact crops; opaque paper backgrounds; no generated replacements",
+  "updatedAt": "2026-09-06T18:28:37.438560+00:00"
+}

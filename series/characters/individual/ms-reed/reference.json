@@ -1,0 +1,26 @@
+{
+  "id": "ms-reed",
+  "name": "Ms Reed",
+  "source": "../sources/adults.png",
+  "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+  "fullBodyBox": [
+    1240,
+    109,
+    1484,
+    711
+  ],
+  "faceBoxes": [
+    [
+      1225,
+      713,
+      1475,
+      991
+    ]
+  ],
+  "files": [
+    "character-sheet.png",
+    "face-01.png",
+    "full-body.png"
+  ],
+  "sourceSha256": "10a50c2162373e58f84bb65cedc49d225ab53fababa89d7ca213c00b889337cc"
+}

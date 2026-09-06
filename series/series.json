@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "kavero",
+  "seriesName": "Kavero’s What If? Adventures",
+  "seriesNameStatus": "proposed-working-title",
+  "author": "Prabhjee Kaur",
+  "authorId": "author-kdp-kids-storybooks",
+  "status": "discussion-only",
+  "topology": "series_of_standalones",
+  "initialBookCount": 3,
+  "readerAge": {
+    "workingPrimary": "8–10",
+    "possibleBroader": "8–12",
+    "status": "owner-working-direction"
+  },
+  "leadAge": "7–8",
+  "seriesPromise": "One curious, lovable boy turns everyday questions into small adventures, learns through imperfect plans and makes things right with kindness.",
+  "books": [
+    {
+      "id": "kavero-brilliant-inventions",
+      "position": 1,
+      "title": "Kavero’s Brilliant Inventions",
+      "titleStatus": "working",
+      "promise": "Funny, manageable inventions that almost work; observe the flaw, ask for help and improve the design.",
+      "status": "placeholder"
+    },
+    {
+      "id": "kavero-everyday-detective",
+      "position": 2,
+      "title": "Kavero, Everyday Detective",
+      "titleStatus": "working",
+      "promise": "Harmless everyday mysteries solved through observation, evidence and changing one’s mind.",
+      "status": "placeholder"
+    },
+    {
+      "id": "kavero-backwards-ideas",
+      "position": 3,
+      "title": "Kavero’s Inside-Out Ideas",
+      "titleStatus": "owner-approved",
+      "promise": "Funny alternatives to everyday routines, with consideration for others and gentle repair.",
+      "status": "placeholder",
+      "titleApprovedAt": "2026-09-06T18:10:05.605867+00:00"
+    }
+  ],
+  "format": {
+    "approach": "text-led story collection with sparse black-and-white line art",
+    "targetStoryWordsPerBook": 12000,
+    "wordTargetStatus": "owner-selected",
+    "totalStoryWordsThreeBooks": 36000,
+    "storiesPerBookRange": [
+      15,
+      20
+    ],
+    "proposedStories": 20,
+    "proposedWordsPerStory": 600,
+    "storyCountStatus": "Book 1 proposal awaiting owner lock; later books undecided",
+    "printPagesPerStoryAim": 5,
+    "proposedStoryPages": 75,
+    "estimatedAdditionalPages": [
+      8,
+      12
+    ],
+    "estimatedTotalPrintPagesRange": [
+      83,
+      87
+    ],
+    "pageBudgetStatus": "Prior 75-page estimate not validated for twenty stories; sample layout required",
+    "ebookFormat": "reflowable",
+    "illustrationPolicy": "Sparse small inline monochrome line art or motifs; below selected headings or at story/book endings. Exact placement and count pending. Stories must make sense without images. No color interior.",
+    "illustrationCountProposal": "5–8 small story-specific drawings per book, not one per page",
+    "alternativeStoryBudget": {
+      "stories": 20,
+      "wordsPerStory": 600
+    },
+    "frontBackMatter": "additional to 12000 story words",
+    "printTrimInches": {
+      "width": 5.25,
+      "height": 8,
+      "status": "owner-selected"
+    },
+    "layoutSampleProposal": {
+      "fontSizePt": 13,
+      "leadingPt": 17,
+      "insideMarginInches": 0.625,
+      "outsideMarginInches": 0.5,
+      "topBottomMarginsInches": 0.625,
+      "bleed": false,
+      "status": "proposal-not-approved-or-rendered"
+    }
+  },
+  "sharedCharacterFolder": "./characters/kavero",
+  "draftingAuthorized": false,
+  "updatedAt": "2026-09-06T18:28:37.438560+00:00",
+  "expansionPolicy": "Open-ended series; three initial book holders only.",
+  "setting": {
+    "country": null,
+    "direction": "Not specifically India; internationally accessible everyday neighbourhood; precise location pending"
+  },
+  "supportingCharacterNaming": "Internationally familiar; avoid Indian naming direction; proposed cast names not approved",
+  "seriesBible": "SERIES_BIBLE.md",
+  "castReference": "supporting-cast-proposals.json",
+  "characterBible": "CHARACTER_BIBLE.md",
+  "assetLibrary": "ASSET_LIBRARY.md",
+  "bookPlans": [
+    "books/book-01-plan.json",
+    "books/book-02-placeholder.md",
+    "books/book-03-placeholder.md"
+  ]
+}

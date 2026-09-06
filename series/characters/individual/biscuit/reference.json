@@ -1,0 +1,41 @@
+{
+  "id": "biscuit",
+  "name": "Biscuit",
+  "source": "../sources/pets.png",
+  "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+  "fullBodyBox": [
+    16,
+    184,
+    429,
+    697
+  ],
+  "faceBoxes": [
+    [
+      24,
+      717,
+      278,
+      974
+    ],
+    [
+      280,
+      711,
+      506,
+      974
+    ],
+    [
+      508,
+      714,
+      754,
+      974
+    ]
+  ],
+  "files": [
+    "character-sheet.png",
+    "face-01.png",
+    "face-02.png",
+    "face-03.png",
+    "full-body.png",
+    "original-pose-sheet.png"
+  ],
+  "sourceSha256": "78f1dbadd4c5e1a04856bf1eb3f9a37ed147f710b7bf49a7177521d9273f78c8"
+}

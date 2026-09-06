@@ -1,0 +1,33 @@
+{
+  "id": "millie",
+  "name": "Millie",
+  "source": "../sources/children.png",
+  "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+  "fullBodyBox": [
+    1203,
+    265,
+    1506,
+    713
+  ],
+  "faceBoxes": [
+    [
+      1184,
+      740,
+      1382,
+      963
+    ],
+    [
+      1383,
+      752,
+      1536,
+      963
+    ]
+  ],
+  "files": [
+    "character-sheet.png",
+    "face-01.png",
+    "face-02.png",
+    "full-body.png"
+  ],
+  "sourceSha256": "053869d2eb604679f9919771ba28d5902bee22541b3fd5eb0740c19dae503078"
+}

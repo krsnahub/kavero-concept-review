@@ -1,0 +1,366 @@
+[
+  {
+    "id": "kavero",
+    "name": "Kavero",
+    "source": "../sources/children.png",
+    "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+    "fullBodyBox": [
+      15,
+      120,
+      350,
+      730
+    ],
+    "faceBoxes": [
+      [
+        10,
+        738,
+        206,
+        955
+      ],
+      [
+        208,
+        738,
+        390,
+        955
+      ]
+    ],
+    "files": [
+      "character-sheet.png",
+      "dedicated-original-sheet.png",
+      "face-01.png",
+      "face-02.png",
+      "full-body.png"
+    ],
+    "sourceSha256": "053869d2eb604679f9919771ba28d5902bee22541b3fd5eb0740c19dae503078"
+  },
+  {
+    "id": "poppy",
+    "name": "Poppy",
+    "source": "../sources/children.png",
+    "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+    "fullBodyBox": [
+      375,
+      145,
+      621,
+      709
+    ],
+    "faceBoxes": [
+      [
+        401,
+        720,
+        613,
+        966
+      ]
+    ],
+    "files": [
+      "character-sheet.png",
+      "face-01.png",
+      "full-body.png"
+    ],
+    "sourceSha256": "053869d2eb604679f9919771ba28d5902bee22541b3fd5eb0740c19dae503078"
+  },
+  {
+    "id": "pip",
+    "name": "Pip",
+    "source": "../sources/children.png",
+    "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+    "fullBodyBox": [
+      629,
+      127,
+      944,
+      714
+    ],
+    "faceBoxes": [
+      [
+        619,
+        711,
+        815,
+        963
+      ],
+      [
+        817,
+        718,
+        990,
+        963
+      ]
+    ],
+    "files": [
+      "character-sheet.png",
+      "face-01.png",
+      "face-02.png",
+      "full-body.png"
+    ],
+    "sourceSha256": "053869d2eb604679f9919771ba28d5902bee22541b3fd5eb0740c19dae503078"
+  },
+  {
+    "id": "toby",
+    "name": "Toby",
+    "source": "../sources/children.png",
+    "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+    "fullBodyBox": [
+      966,
+      131,
+      1186,
+      712
+    ],
+    "faceBoxes": [
+      [
+        990,
+        711,
+        1181,
+        963
+      ]
+    ],
+    "files": [
+      "character-sheet.png",
+      "face-01.png",
+      "full-body.png"
+    ],
+    "sourceSha256": "053869d2eb604679f9919771ba28d5902bee22541b3fd5eb0740c19dae503078"
+  },
+  {
+    "id": "millie",
+    "name": "Millie",
+    "source": "../sources/children.png",
+    "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+    "fullBodyBox": [
+      1203,
+      265,
+      1506,
+      713
+    ],
+    "faceBoxes": [
+      [
+        1184,
+        740,
+        1382,
+        963
+      ],
+      [
+        1383,
+        752,
+        1536,
+        963
+      ]
+    ],
+    "files": [
+      "character-sheet.png",
+      "face-01.png",
+      "face-02.png",
+      "full-body.png"
+    ],
+    "sourceSha256": "053869d2eb604679f9919771ba28d5902bee22541b3fd5eb0740c19dae503078"
+  },
+  {
+    "id": "granny",
+    "name": "Granny",
+    "source": "../sources/adults.png",
+    "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+    "fullBodyBox": [
+      24,
+      115,
+      374,
+      707
+    ],
+    "faceBoxes": [
+      [
+        49,
+        711,
+        335,
+        991
+      ]
+    ],
+    "files": [
+      "character-sheet.png",
+      "face-01.png",
+      "full-body.png"
+    ],
+    "sourceSha256": "10a50c2162373e58f84bb65cedc49d225ab53fababa89d7ca213c00b889337cc"
+  },
+  {
+    "id": "mum",
+    "name": "Mum",
+    "source": "../sources/adults.png",
+    "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+    "fullBodyBox": [
+      391,
+      107,
+      634,
+      710
+    ],
+    "faceBoxes": [
+      [
+        383,
+        716,
+        636,
+        991
+      ]
+    ],
+    "files": [
+      "character-sheet.png",
+      "face-01.png",
+      "full-body.png"
+    ],
+    "sourceSha256": "10a50c2162373e58f84bb65cedc49d225ab53fababa89d7ca213c00b889337cc"
+  },
+  {
+    "id": "dad",
+    "name": "Dad",
+    "source": "../sources/adults.png",
+    "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+    "fullBodyBox": [
+      642,
+      103,
+      931,
+      714
+    ],
+    "faceBoxes": [
+      [
+        657,
+        716,
+        899,
+        991
+      ]
+    ],
+    "files": [
+      "character-sheet.png",
+      "face-01.png",
+      "full-body.png"
+    ],
+    "sourceSha256": "10a50c2162373e58f84bb65cedc49d225ab53fababa89d7ca213c00b889337cc"
+  },
+  {
+    "id": "mr-bell",
+    "name": "Mr Bell",
+    "source": "../sources/adults.png",
+    "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+    "fullBodyBox": [
+      948,
+      113,
+      1197,
+      715
+    ],
+    "faceBoxes": [
+      [
+        936,
+        712,
+        1181,
+        990
+      ]
+    ],
+    "files": [
+      "character-sheet.png",
+      "face-01.png",
+      "full-body.png"
+    ],
+    "sourceSha256": "10a50c2162373e58f84bb65cedc49d225ab53fababa89d7ca213c00b889337cc"
+  },
+  {
+    "id": "ms-reed",
+    "name": "Ms Reed",
+    "source": "../sources/adults.png",
+    "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+    "fullBodyBox": [
+      1240,
+      109,
+      1484,
+      711
+    ],
+    "faceBoxes": [
+      [
+        1225,
+        713,
+        1475,
+        991
+      ]
+    ],
+    "files": [
+      "character-sheet.png",
+      "face-01.png",
+      "full-body.png"
+    ],
+    "sourceSha256": "10a50c2162373e58f84bb65cedc49d225ab53fababa89d7ca213c00b889337cc"
+  },
+  {
+    "id": "biscuit",
+    "name": "Biscuit",
+    "source": "../sources/pets.png",
+    "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+    "fullBodyBox": [
+      16,
+      184,
+      429,
+      697
+    ],
+    "faceBoxes": [
+      [
+        24,
+        717,
+        278,
+        974
+      ],
+      [
+        280,
+        711,
+        506,
+        974
+      ],
+      [
+        508,
+        714,
+        754,
+        974
+      ]
+    ],
+    "files": [
+      "character-sheet.png",
+      "face-01.png",
+      "face-02.png",
+      "face-03.png",
+      "full-body.png",
+      "original-pose-sheet.png"
+    ],
+    "sourceSha256": "78f1dbadd4c5e1a04856bf1eb3f9a37ed147f710b7bf49a7177521d9273f78c8"
+  },
+  {
+    "id": "miette",
+    "name": "Miette",
+    "source": "../sources/pets.png",
+    "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+    "fullBodyBox": [
+      803,
+      172,
+      1184,
+      706
+    ],
+    "faceBoxes": [
+      [
+        793,
+        717,
+        1036,
+        974
+      ],
+      [
+        1039,
+        720,
+        1281,
+        974
+      ],
+      [
+        1283,
+        719,
+        1513,
+        974
+      ]
+    ],
+    "files": [
+      "character-sheet.png",
+      "face-01.png",
+      "face-02.png",
+      "face-03.png",
+      "full-body.png",
+      "original-pose-sheet.png"
+    ],
+    "sourceSha256": "78f1dbadd4c5e1a04856bf1eb3f9a37ed147f710b7bf49a7177521d9273f78c8"
+  }
+]

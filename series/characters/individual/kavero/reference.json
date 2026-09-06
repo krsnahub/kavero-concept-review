@@ -1,0 +1,34 @@
+{
+  "id": "kavero",
+  "name": "Kavero",
+  "source": "../sources/children.png",
+  "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
+  "fullBodyBox": [
+    15,
+    120,
+    350,
+    730
+  ],
+  "faceBoxes": [
+    [
+      10,
+      738,
+      206,
+      955
+    ],
+    [
+      208,
+      738,
+      390,
+      955
+    ]
+  ],
+  "files": [
+    "character-sheet.png",
+    "dedicated-original-sheet.png",
+    "face-01.png",
+    "face-02.png",
+    "full-body.png"
+  ],
+  "sourceSha256": "053869d2eb604679f9919771ba28d5902bee22541b3fd5eb0740c19dae503078"
+}
