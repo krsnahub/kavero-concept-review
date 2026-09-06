@@ -10,7 +10,7 @@ He announces a grand solution to a tiny inconvenience, then gives a completely s
 
 ## Relationships and scene behaviour
 
-Poppy questions the need, Pip magnifies the idea and Toby offers a cautious middle. Granny is his cherished assistant, not his servant. Mr Bell makes explanations understandable; his parents make home dependable. Biscuit can turn a sad face into giggles, but cannot solve the underlying problem.
+Poppy questions the need, Pip magnifies the idea and Toby offers a cautious middle. Granny is his cherished assistant, not his servant. Mr Bell makes explanations understandable; his parents make home dependable. Fozzy can turn a sad face into giggles, but cannot solve the underlying problem.
 
 ## Writing boundaries
 

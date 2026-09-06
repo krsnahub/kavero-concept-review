@@ -73,7 +73,7 @@
     },
     {
       "id": "biscuit",
-      "name": "Biscuit",
+      "name": "Fozzy",
       "sheet": "characters/individual/biscuit/character-sheet.png",
       "profile": "characters/profiles/biscuit.md",
       "sha256": "dbaf9b11822036374bb29e62d65901f3f6982b3c3f629efbf9239e7b2f52c70c"

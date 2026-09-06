@@ -15,7 +15,7 @@ He announces a grand solution to a tiny inconvenience, then gives a completely s
 
 ### Relationships and scene behaviour
 
-Poppy questions the need, Pip magnifies the idea and Toby offers a cautious middle. Granny is his cherished assistant, not his servant. Mr Bell makes explanations understandable; his parents make home dependable. Biscuit can turn a sad face into giggles, but cannot solve the underlying problem.
+Poppy questions the need, Pip magnifies the idea and Toby offers a cautious middle. Granny is his cherished assistant, not his servant. Mr Bell makes explanations understandable; his parents make home dependable. Fozzy can turn a sad face into giggles, but cannot solve the underlying problem.
 
 ### Writing boundaries
 
@@ -273,7 +273,7 @@ Until school boundaries are settled, use mild non-humiliating redirection. No fr
 Use `../individual/ms-reed/character-sheet.png`, plus that folder’s full-body and face references. Preserve selected appearance. Do not copy another character’s face or outfit.
 
 
-## Biscuit
+## Fozzy
 
 ### Personality and motivation
 
@@ -312,7 +312,7 @@ A purr arrives in a solemn pause; the exact object someone needs becomes his sea
 
 ### Relationships and scene behaviour
 
-Poppy loves him but cannot decode him. Kavero invents theories; Biscuit becomes flustered. Toby may politely negotiate with him while Pip assumes the cat has approved a plan.
+Poppy loves him but cannot decode him. Kavero invents theories; Fozzy becomes flustered. Toby may politely negotiate with him while Pip assumes the cat has approved a plan.
 
 ### Writing boundaries
 
@@ -325,3 +325,10 @@ Nonverbal: long stare, slow blink, small purr, turned back, deliberate settling.
 ### Visual reference
 
 Use `../individual/miette/character-sheet.png`, plus that folder’s full-body and face references. Preserve selected appearance. Do not copy another character’s face or outfit.
+
+
+## Owner update — 2026-09-06
+
+The puppy’s approved name is **Fozzy**, replacing Biscuit. Stable legacy asset IDs and paths retain `biscuit` to preserve references. Original reference art is preserved; lettering reading BISCUIT is outdated and must be relabelled before publication, but the visual character design remains valid.
+
+Book 1 now contains **17 stories** after removing original numbers **2, 14 and 15**. The remaining concepts are renumbered in the current book plan. Three retained stories include all three friends. Final outline approval remains pending. The earlier 20-story and 600-word budgets are superseded as planning assumptions. Existing 12,000-word total remains pending resolution against the requested 800–1,000-word story length; recommended revised total is 14,450 (17 × 850), not yet approved.

@@ -10,7 +10,7 @@ A purr arrives in a solemn pause; the exact object someone needs becomes his sea
 
 ## Relationships and scene behaviour
 
-Poppy loves him but cannot decode him. Kavero invents theories; Biscuit becomes flustered. Toby may politely negotiate with him while Pip assumes the cat has approved a plan.
+Poppy loves him but cannot decode him. Kavero invents theories; Fozzy becomes flustered. Toby may politely negotiate with him while Pip assumes the cat has approved a plan.
 
 ## Writing boundaries
 

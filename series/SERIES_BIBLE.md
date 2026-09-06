@@ -102,11 +102,11 @@ Her exact personality is not settled. One optional contrast is a literal-minded 
 
 ## 7. The puppy and the cat
 
-### Biscuit — Kavero’s puppy; proposed name
+### Fozzy — Kavero’s puppy; proposed name
 
 Cute, affectionate, bouncy and interested in everything through sniffing, licking and chewing. Slippers and balls attract him. Show mouthing, carrying or chewing non-food objects rather than treating swallowing them as harmless comedy.
 
-When Kavero is upset or makes a sad face, Biscuit clambers or leaps onto him and licks him until he bursts into giggles. This is a recurring affectionate beat, not an automatic replacement for solving every emotional problem.
+When Kavero is upset or makes a sad face, Fozzy clambers or leaps onto him and licks him until he bursts into giggles. This is a recurring affectionate beat, not an automatic replacement for solving every emotional problem.
 
 The cat intimidates him. When flustered, he seeks reassurance and may lick everyone even more. After an experiment goes wrong, he tries to investigate or lick the spill; the family promptly stops him when it is not suitable. Humour comes from eagerness and interruption, not illness or injury.
 
@@ -204,3 +204,10 @@ Owner requested separate references from the supplied cast sheets. Twelve charac
 ## Master library update
 
 Expanded cast: CHARACTER_BIBLE.md and characters/profiles/. Visual library: ASSET_LIBRARY.md and asset-library.json. Current Book 1 proposal: books/book-01-plan.json and .md (20 stories, 600 words average, 12,000 total). Owner lock pending. These override the earlier 15-story recommendation for Book 1. Follow MASTER_FILES.md whenever details change. No cover art.
+
+
+## Owner update — 2026-09-06
+
+The puppy’s approved name is **Fozzy**, replacing Biscuit. Stable legacy asset IDs and paths retain `biscuit` to preserve references. Original reference art is preserved; lettering reading BISCUIT is outdated and must be relabelled before publication, but the visual character design remains valid.
+
+Book 1 now contains **17 stories** after removing original numbers **2, 14 and 15**. The remaining concepts are renumbered in the current book plan. Three retained stories include all three friends. Final outline approval remains pending. The earlier 20-story and 600-word budgets are superseded as planning assumptions. Existing 12,000-word total remains pending resolution against the requested 800–1,000-word story length; recommended revised total is 14,450 (17 × 850), not yet approved.

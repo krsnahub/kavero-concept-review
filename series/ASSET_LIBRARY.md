@@ -14,7 +14,14 @@ Twelve character references. Each individual folder includes character-sheet.png
 | Dad | [Sheet](characters/individual/dad/character-sheet.png) | [Profile](characters/profiles/dad.md) |
 | Mr Bell | [Sheet](characters/individual/mr-bell/character-sheet.png) | [Profile](characters/profiles/mr-bell.md) |
 | Ms Reed | [Sheet](characters/individual/ms-reed/character-sheet.png) | [Profile](characters/profiles/ms-reed.md) |
-| Biscuit | [Sheet](characters/individual/biscuit/character-sheet.png) | [Profile](characters/profiles/biscuit.md) |
+| Fozzy | [Sheet](characters/individual/biscuit/character-sheet.png) | [Profile](characters/profiles/biscuit.md) |
 | Miette | [Sheet](characters/individual/miette/character-sheet.png) | [Profile](characters/profiles/miette.md) |
 
 For a scene, supply only relevant sheets and their profiles, plus the shared style/scene instructions. Colour sheets are identity references; book interiors remain sparse monochrome. No transparent cutouts or higher resolution are implied. Check coat markings across pet views before a final illustration.
+
+
+## Owner update — 2026-09-06
+
+The puppy’s approved name is **Fozzy**, replacing Biscuit. Stable legacy asset IDs and paths retain `biscuit` to preserve references. Original reference art is preserved; lettering reading BISCUIT is outdated and must be relabelled before publication, but the visual character design remains valid.
+
+Book 1 now contains **17 stories** after removing original numbers **2, 14 and 15**. The remaining concepts are renumbered in the current book plan. Three retained stories include all three friends. Final outline approval remains pending. The earlier 20-story and 600-word budgets are superseded as planning assumptions. Existing 12,000-word total remains pending resolution against the requested 800–1,000-word story length; recommended revised total is 14,450 (17 × 850), not yet approved.

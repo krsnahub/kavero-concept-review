@@ -283,7 +283,7 @@
   },
   {
     "id": "biscuit",
-    "name": "Biscuit",
+    "name": "Fozzy",
     "source": "../sources/pets.png",
     "method": "Exact source-pixel crops; sheet rearranges crops on a neutral background; no generation, retouching or upscaling.",
     "fullBodyBox": [

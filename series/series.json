@@ -51,9 +51,9 @@
       15,
       20
     ],
-    "proposedStories": 20,
-    "proposedWordsPerStory": 600,
-    "storyCountStatus": "Book 1 proposal awaiting owner lock; later books undecided",
+    "proposedStories": 17,
+    "proposedWordsPerStory": 705.88,
+    "storyCountStatus": "Book 1: 17 after owner removals; final outline lock pending",
     "printPagesPerStoryAim": 5,
     "proposedStoryPages": 75,
     "estimatedAdditionalPages": [
@@ -64,13 +64,18 @@
       83,
       87
     ],
-    "pageBudgetStatus": "Prior 75-page estimate not validated for twenty stories; sample layout required",
+    "pageBudgetStatus": "Recalculate after word budget and sample layout are approved",
     "ebookFormat": "reflowable",
     "illustrationPolicy": "Sparse small inline monochrome line art or motifs; below selected headings or at story/book endings. Exact placement and count pending. Stories must make sense without images. No color interior.",
     "illustrationCountProposal": "5–8 small story-specific drawings per book, not one per page",
     "alternativeStoryBudget": {
-      "stories": 20,
-      "wordsPerStory": 600
+      "wordsPerStoryRange": [
+        800,
+        1000
+      ],
+      "recommendedAverage": 850,
+      "recommendedTotal": 14450,
+      "status": "recommendation-awaiting-owner-confirmation; existing 12000 target retained"
     },
     "frontBackMatter": "additional to 12000 story words",
     "printTrimInches": {
@@ -88,9 +93,9 @@
       "status": "proposal-not-approved-or-rendered"
     }
   },
-  "sharedCharacterFolder": "./characters/kavero",
+  "sharedCharacterFolder": "characters/kavero",
   "draftingAuthorized": false,
-  "updatedAt": "2026-09-06T18:28:37.438560+00:00",
+  "updatedAt": "2026-09-06T18:50:24.777925+00:00",
   "expansionPolicy": "Open-ended series; three initial book holders only.",
   "setting": {
     "country": null,
@@ -105,5 +110,10 @@
     "books/book-01-plan.json",
     "books/book-02-placeholder.md",
     "books/book-03-placeholder.md"
-  ]
+  ],
+  "puppyName": {
+    "name": "Fozzy",
+    "status": "owner-approved",
+    "legacyId": "biscuit"
+  }
 }

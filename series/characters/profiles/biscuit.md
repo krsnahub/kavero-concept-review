@@ -1,4 +1,4 @@
-# Biscuit
+# Fozzy
 
 ## Personality and motivation
 
@@ -23,3 +23,6 @@ Nonverbal: tail, ears, nose, licking, hesitant little approach.
 ## Visual reference
 
 Use `../individual/biscuit/character-sheet.png`, plus that folder’s full-body and face references. Preserve selected appearance. Do not copy another character’s face or outfit.
+
+
+Owner-approved name: Fozzy. Legacy ID/path: biscuit. Original sheet lettering is pending update; appearance is unchanged.
