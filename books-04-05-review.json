@@ -5,211 +5,391 @@
       "number": 4,
       "title": "Kavero’s Kitchen Capers",
       "concept": "Big questions, small snacks, and a wonderfully messy kitchen: funny adventures in cooking, serving, and sharing, with adults handling heat and sharp tools.",
-      "status": "story-concepts-awaiting-review",
+      "status": "review-in-progress-not-drafting-approved",
       "targetWords": 15000,
       "stories": [
+        {
+          "number": 17,
+          "id": "b4-s17",
+          "title": "The Rolling Lunch",
+          "summary": "Kavero decides every part of lunch should be round, but wrapping a round sandwich turns out to be easier than persuading it to stay on his plate.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Poppy",
+            "Pip"
+          ],
+          "status": "additional-replacement-awaiting-review",
+          "batch": "replacement-options-r2"
+        },
+        {
+          "number": 18,
+          "id": "b4-s18",
+          "title": "The Secret Taste Test",
+          "summary": "Kavero organises a mystery fruit tasting, but Pip gives away every answer by shouting the fruit’s colour before Granny takes a bite.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip",
+            "Toby"
+          ],
+          "status": "additional-replacement-awaiting-review",
+          "batch": "replacement-options-r2"
+        },
+        {
+          "number": 19,
+          "id": "b4-s19",
+          "title": "The Potato Guest List",
+          "summary": "Kavero and Millie give every potato a name before Mum cooks, then spend dinner politely asking whether anyone would like more Harold.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Mum",
+            "Millie",
+            "Poppy"
+          ],
+          "status": "additional-replacement-awaiting-review",
+          "batch": "replacement-options-r2"
+        },
+        {
+          "number": 20,
+          "id": "b4-s20",
+          "title": "The Jelly Wobble Show",
+          "summary": "Kavero makes a grand speech to introduce Granny’s jelly, but its wobbling entrance gets more applause than anything he has rehearsed.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Dad",
+            "Poppy",
+            "Toby"
+          ],
+          "status": "additional-replacement-awaiting-review",
+          "batch": "replacement-options-r2"
+        },
+        {
+          "number": 21,
+          "id": "b4-s21",
+          "title": "The Never-Ending Menu",
+          "summary": "Kavero keeps adding choices to his sandwich menu until Granny orders “whatever is ready”—and discovers nothing is.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip",
+            "Toby"
+          ],
+          "status": "additional-replacement-awaiting-review",
+          "batch": "replacement-options-r2"
+        },
         {
           "number": 1,
           "id": "b4-s01",
           "title": "The Sandwich That Slid",
-          "summary": "Kavero stacks everyone’s favourite fillings into one sandwich, but Granny needs a plate big enough to catch lunch as it escapes sideways."
+          "summary": "Kavero stacks everyone’s favourite fillings into one sandwich, but Granny needs a plate big enough to catch lunch as it escapes sideways.",
+          "status": "awaiting-review"
         },
         {
           "number": 2,
           "id": "b4-s02",
           "title": "The Recipe Without Numbers",
-          "summary": "Granny’s “a little” and “some” send Kavero searching for the measuring cup her hands seem to have swallowed."
+          "summary": "Granny’s “a little” and “some” send Kavero searching for the measuring cup her hands seem to have swallowed.",
+          "status": "awaiting-review"
         },
         {
           "number": 3,
           "id": "b4-s03",
           "title": "The Very Fancy Lunch",
-          "summary": "Kavero serves tiny restaurant portions with enormous descriptions, until Dad politely asks when lunch will begin."
+          "summary": "Kavero serves tiny restaurant portions with enormous descriptions, until Dad politely asks when lunch will begin.",
+          "status": "awaiting-review"
         },
         {
           "number": 4,
           "id": "b4-s04",
           "title": "The Pancake Portrait",
-          "summary": "With Mum cooking, the friends design pancake faces—but each face looks more like somebody else when it lands on the plate."
+          "summary": "With Mum cooking, the friends design pancake faces—but each face looks more like somebody else when it lands on the plate.",
+          "status": "awaiting-review"
         },
         {
           "number": 5,
           "id": "b4-s05",
           "title": "The Great Pea Escape",
-          "summary": "Kavero tries to arrange a perfectly neat dinner while his peas keep rolling into Granny’s potatoes."
+          "summary": "Kavero tries to arrange a perfectly neat dinner while his peas keep rolling into Granny’s potatoes.",
+          "status": "awaiting-review"
         },
         {
           "number": 6,
           "id": "b4-s06",
           "title": "The Toast Appointment",
-          "summary": "Kavero prepares an elaborate breakfast timetable, then discovers that warm toast refuses to stay warm while everyone finds a seat."
+          "summary": "Kavero prepares an elaborate breakfast timetable, then discovers that warm toast refuses to stay warm while everyone finds a seat.",
+          "status": "awaiting-review"
         },
         {
           "number": 7,
           "id": "b4-s07",
           "title": "The Lopsided Cake",
-          "summary": "A cake leans to one side, so Kavero and Granny decorate it as a hill—and Pip insists that every hill needs a picnic."
+          "summary": "A cake leans to one side, so Kavero and Granny decorate it as a hill—and Pip insists that every hill needs a picnic.",
+          "status": "awaiting-review"
         },
         {
           "number": 8,
           "id": "b4-s08",
           "title": "The Alphabet Soup Lunch",
-          "summary": "Kavero wants to serve everyone’s name in alphabet soup, but the letter everyone needs is hiding in somebody else’s bowl."
+          "summary": "Kavero wants to serve everyone’s name in alphabet soup, but the letter everyone needs is hiding in somebody else’s bowl.",
+          "status": "awaiting-review"
         },
         {
           "number": 9,
           "id": "b4-s09",
           "title": "The Crunchy Music Club",
-          "summary": "The friends make a snack-time orchestra with crunchy foods, only to discover that their instruments disappear during rehearsals."
+          "summary": "The friends make a snack-time orchestra with crunchy foods, only to discover that their instruments disappear during rehearsals.",
+          "status": "awaiting-review"
         },
         {
           "number": 10,
           "id": "b4-s10",
           "title": "The Great Banana Vote",
-          "summary": "Kavero lets the family vote on what to make with ripe bananas, and Granny has to remind the committee that the bananas are still waiting."
+          "summary": "Kavero lets the family vote on what to make with ripe bananas, and Granny has to remind the committee that the bananas are still waiting.",
+          "status": "awaiting-review"
         },
         {
           "number": 11,
           "id": "b4-s11",
           "title": "The Picnic in Cups",
-          "summary": "Kavero serves an entire little picnic in cups, then discovers that a sandwich does not enjoy being folded quite that much."
+          "summary": "Kavero serves an entire little picnic in cups, then discovers that a sandwich does not enjoy being folded quite that much.",
+          "status": "awaiting-review"
         },
         {
           "number": 12,
           "id": "b4-s12",
           "title": "The Biscuit Shapes Parade",
-          "summary": "Millie names every biscuit shape before baking, and Kavero must explain why her tiny rabbit has spread into an enormous cloud."
+          "summary": "Millie names every biscuit shape before baking, and Kavero must explain why her tiny rabbit has spread into an enormous cloud.",
+          "status": "awaiting-review"
         },
         {
           "number": 13,
           "id": "b4-s13",
           "title": "The Two-Sided Pizza",
-          "summary": "Kavero and Poppy divide a pizza into favourite-topping territories, but the cheese refuses to respect their carefully drawn border."
+          "summary": "Kavero and Poppy divide a pizza into favourite-topping territories, but the cheese refuses to respect their carefully drawn border.",
+          "status": "awaiting-review"
         },
         {
           "number": 14,
           "id": "b4-s14",
           "title": "The Invisible Table",
-          "summary": "Kavero decorates the dinner table so thoroughly that Granny can find the flowers, the ribbons, and the name cards—but nowhere for dinner."
+          "summary": "Kavero decorates the dinner table so thoroughly that Granny can find the flowers, the ribbons, and the name cards—but nowhere for dinner.",
+          "status": "awaiting-review"
         },
         {
           "number": 15,
           "id": "b4-s15",
           "title": "The Ice-Lolly Queue",
-          "summary": "Kavero checks the freezer every few minutes, while Granny helps him discover that the hardest ingredient in ice lollies is waiting."
+          "summary": "Kavero checks the freezer every few minutes, while Granny helps him discover that the hardest ingredient in ice lollies is waiting.",
+          "status": "awaiting-review"
         },
         {
           "number": 16,
           "id": "b4-s16",
           "title": "The Thank-You Supper",
-          "summary": "Kavero plans a supper to thank Granny, then has to find her a special guest’s job that does not involve helping him make it."
+          "summary": "Kavero plans a supper to thank Granny, then has to find her a special guest’s job that does not involve helping him make it.",
+          "status": "awaiting-review"
         }
-      ]
+      ],
+      "revision": "replacement-options-r2",
+      "activeStoryCount": 21,
+      "droppedStoryNumbers": []
     },
     {
       "number": 5,
       "title": "Kavero’s Outdoor Escapades",
       "concept": "Small adventures in the garden, park, and neighbourhood: Kavero explores with Granny and his friends, discovering how much there is to notice close to home.",
-      "status": "story-concepts-awaiting-review",
+      "status": "review-in-progress-not-drafting-approved",
       "targetWords": 15000,
       "stories": [
+        {
+          "number": 17,
+          "id": "b5-s17",
+          "title": "The Snail Grandstand",
+          "summary": "The friends build seats to watch a snail cross the path, but while they argue about the best view, their star quietly leaves in the other direction.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Poppy",
+            "Pip"
+          ],
+          "status": "additional-replacement-awaiting-review",
+          "batch": "replacement-options-r2"
+        },
+        {
+          "number": 18,
+          "id": "b5-s18",
+          "title": "The Worm Roadblock",
+          "summary": "Kavero pauses their garden game for a worm crossing the path, and Pip announces traffic updates while Granny patiently waits with the ball.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip",
+            "Toby"
+          ],
+          "status": "additional-replacement-awaiting-review",
+          "batch": "replacement-options-r2"
+        },
+        {
+          "number": 19,
+          "id": "b5-s19",
+          "title": "The Very Short Safari",
+          "summary": "Kavero promises to show Millie amazing wildlife, but she is most impressed by a pigeon having a bath in a plant saucer.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Millie",
+            "Poppy"
+          ],
+          "status": "additional-replacement-awaiting-review",
+          "batch": "replacement-options-r2"
+        },
+        {
+          "number": 20,
+          "id": "b5-s20",
+          "title": "The Daisy Detective Club",
+          "summary": "Kavero searches for a four-leaf clover while Pip counts every leaf on every plant, until Granny gently points out that his best discovery is a daisy.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip",
+            "Toby"
+          ],
+          "status": "additional-replacement-awaiting-review",
+          "batch": "replacement-options-r2"
+        },
+        {
+          "number": 21,
+          "id": "b5-s21",
+          "title": "The Pebble Portrait",
+          "summary": "Kavero makes a portrait of Granny with loose garden pebbles, but every friend who adds a feature insists it looks exactly like somebody else.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Poppy",
+            "Toby"
+          ],
+          "status": "additional-replacement-awaiting-review",
+          "batch": "replacement-options-r2"
+        },
         {
           "number": 1,
           "id": "b5-s01",
           "title": "The Map Forgot Us",
-          "summary": "Kavero’s map includes every interesting landmark but nowhere to begin, so Granny asks him to draw the very important spot under their shoes."
+          "summary": "Kavero’s map includes every interesting landmark but nowhere to begin, so Granny asks him to draw the very important spot under their shoes.",
+          "status": "awaiting-review"
         },
         {
           "number": 2,
           "id": "b5-s02",
           "title": "The Perfect Picnic Spot",
-          "summary": "Everyone wants something different from the perfect picnic spot, and Granny would mainly like to sit down before lunch becomes dinner."
+          "summary": "Everyone wants something different from the perfect picnic spot, and Granny would mainly like to sit down before lunch becomes dinner.",
+          "status": "awaiting-review"
         },
         {
           "number": 3,
           "id": "b5-s03",
           "title": "The Smallest Expedition",
-          "summary": "Kavero packs for a grand adventure across the garden, while Millie keeps finding reasons to stop after three steps."
+          "summary": "Kavero packs for a grand adventure across the garden, while Millie keeps finding reasons to stop after three steps.",
+          "status": "awaiting-review"
         },
         {
           "number": 4,
           "id": "b5-s04",
           "title": "The Puddle Path",
-          "summary": "Kavero plans a walk that avoids every puddle, but his dry route keeps bringing the friends back to Granny’s front gate."
+          "summary": "Kavero plans a walk that avoids every puddle, but his dry route keeps bringing the friends back to Granny’s front gate.",
+          "status": "awaiting-review"
         },
         {
           "number": 5,
           "id": "b5-s05",
           "title": "The Pocketful of Outdoors",
-          "summary": "Kavero wants to take a little of the park home, until Granny helps him choose drawings and memories instead of stuffing his pockets with everything."
+          "summary": "Kavero wants to take a little of the park home, until Granny helps him choose drawings and memories instead of stuffing his pockets with everything.",
+          "status": "awaiting-review"
         },
         {
           "number": 6,
           "id": "b5-s06",
           "title": "The Cloud Appointment",
-          "summary": "The friends arrange to show Granny a cloud shaped like a rabbit, but their rabbit becomes a teapot before she arrives."
+          "summary": "The friends arrange to show Granny a cloud shaped like a rabbit, but their rabbit becomes a teapot before she arrives.",
+          "status": "awaiting-review"
         },
         {
           "number": 7,
           "id": "b5-s07",
           "title": "The Windy Hat Walk",
-          "summary": "Kavero spends a breezy walk holding his hat with both hands, leaving Granny to ask how he plans to point at all his discoveries."
+          "summary": "Kavero spends a breezy walk holding his hat with both hands, leaving Granny to ask how he plans to point at all his discoveries.",
+          "status": "awaiting-review"
         },
         {
           "number": 8,
           "id": "b5-s08",
           "title": "The Backwards Binoculars",
-          "summary": "Millie looks through binoculars the wrong way round and declares that their tiny garden has become an enormous country."
+          "summary": "Millie looks through binoculars the wrong way round and declares that their tiny garden has become an enormous country.",
+          "status": "awaiting-review"
         },
         {
           "number": 9,
           "id": "b5-s09",
           "title": "The Leaf Fashion Show",
-          "summary": "Kavero and his friends arrange fallen leaves into imaginary outfits, but a breeze rearranges the entire collection just before Granny’s judging begins."
+          "summary": "Kavero and his friends arrange fallen leaves into imaginary outfits, but a breeze rearranges the entire collection just before Granny’s judging begins.",
+          "status": "awaiting-review"
         },
         {
           "number": 10,
           "id": "b5-s10",
           "title": "The Bench-to-Bench Adventure",
-          "summary": "Granny chooses a walk with plenty of sitting stops, and Kavero gives each bench a different pretend destination."
+          "summary": "Granny chooses a walk with plenty of sitting stops, and Kavero gives each bench a different pretend destination.",
+          "status": "awaiting-review"
         },
         {
           "number": 11,
           "id": "b5-s11",
           "title": "The Quietest Garden Visit",
-          "summary": "Kavero promises a quiet morning watching birds, but communicating his excitement without shouting turns out to require his whole body."
+          "summary": "Kavero promises a quiet morning watching birds, but communicating his excitement without shouting turns out to require his whole body.",
+          "status": "awaiting-review"
         },
         {
           "number": 12,
           "id": "b5-s12",
           "title": "The Enormous Small Hill",
-          "summary": "Pip describes a grassy slope as a mountain, and Kavero’s expedition discovers that Granny has reached the summit carrying their snacks."
+          "summary": "Pip describes a grassy slope as a mountain, and Kavero’s expedition discovers that Granny has reached the summit carrying their snacks.",
+          "status": "awaiting-review"
         },
         {
           "number": 13,
           "id": "b5-s13",
           "title": "The Long Shadow Parade",
-          "summary": "On an afternoon walk, the children stretch their shadows across the path and try to fit their enormous pretend selves around Granny’s ordinary-sized feet."
+          "summary": "On an afternoon walk, the children stretch their shadows across the path and try to fit their enormous pretend selves around Granny’s ordinary-sized feet.",
+          "status": "awaiting-review"
         },
         {
           "number": 14,
           "id": "b5-s14",
           "title": "The Garden Welcome Party",
-          "summary": "Kavero prepares a welcome party for a newly planted sapling, then learns that his guest needs space, water, and fewer decorations."
+          "summary": "Kavero prepares a welcome party for a newly planted sapling, then learns that his guest needs space, water, and fewer decorations.",
+          "status": "awaiting-review"
         },
         {
           "number": 15,
           "id": "b5-s15",
           "title": "The Walk With No List",
-          "summary": "When Kavero leaves his outing checklist at home, Poppy suggests choosing one thing at a time—and an unplanned stop becomes everyone’s favourite."
+          "summary": "When Kavero leaves his outing checklist at home, Poppy suggests choosing one thing at a time—and an unplanned stop becomes everyone’s favourite.",
+          "status": "awaiting-review"
         },
         {
           "number": 16,
           "id": "b5-s16",
           "title": "The Grand Outdoor Report",
-          "summary": "Kavero invites the family to hear his report of the neighbourhood, but Granny’s favourite discoveries are the funny little moments he forgot to put on his map."
+          "summary": "Kavero invites the family to hear his report of the neighbourhood, but Granny’s favourite discoveries are the funny little moments he forgot to put on his map.",
+          "status": "awaiting-review"
         }
-      ]
+      ],
+      "revision": "replacement-options-r2",
+      "activeStoryCount": 21,
+      "droppedStoryNumbers": []
     }
   ]
 }
