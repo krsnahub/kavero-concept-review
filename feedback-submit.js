@@ -46,5 +46,5 @@
   window.addEventListener('online',save);
   window.addEventListener('beforeunload',e=>{if(signature()!==lastSaved){e.preventDefault();e.returnValue='';}});
   const note=document.createElement('p');note.textContent='Hearts and comments save online after you pause typing. Wait for “Saved online ✓” before closing. Save comment and Save all feedback let you save immediately. Download feedback keeps an extra copy.';api.panel.append(note);
-  lastSaved=signature();
+  if(api.review().stories.some(s=>s.selected!==null || s.comment.trim())){message('Restored draft—saving online…');timer=setTimeout(save,1500);}else lastSaved=signature();
 })();
