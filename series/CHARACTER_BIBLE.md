@@ -332,3 +332,8 @@ Use `../individual/miette/character-sheet.png`, plus that folder’s full-body a
 The puppy’s approved name is **Fozzy**, replacing Biscuit. Stable legacy asset IDs and paths retain `biscuit` to preserve references. Original reference art is preserved; lettering reading BISCUIT is outdated and must be relabelled before publication, but the visual character design remains valid.
 
 Book 1 now contains **17 stories** after removing original numbers **2, 14 and 15**. The remaining concepts are renumbered in the current book plan. Three retained stories include all three friends. Final outline approval remains pending. The earlier 20-story and 600-word budgets are superseded as planning assumptions. Existing 12,000-word total remains pending resolution against the requested 800–1,000-word story length; recommended revised total is 14,450 (17 × 850), not yet approved.
+
+
+## Production approval
+
+2026-09-06T18:53:55.534985+00:00 — Owner approved the current 17-story plan, cast and original warm-mischief style and authorized completion through editorial and interiors. Book 1 target ~14,450 words, 800–1,000 per story. Fozzy approved. Temporary author Prabhjee Kaur. Cover art and public manuscript upload remain outside scope. This supersedes earlier pending/proposal/no-drafting statements.

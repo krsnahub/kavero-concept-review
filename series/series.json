@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "id": "kavero",
   "seriesName": "Kavero’s What If? Adventures",
-  "seriesNameStatus": "proposed-working-title",
+  "seriesNameStatus": "owner-approved",
   "author": "Prabhjee Kaur",
   "authorId": "author-kdp-kids-storybooks",
-  "status": "discussion-only",
+  "status": "book-01-interiors-complete",
   "topology": "series_of_standalones",
   "initialBookCount": 3,
   "readerAge": {
@@ -22,7 +22,9 @@
       "title": "Kavero’s Brilliant Inventions",
       "titleStatus": "working",
       "promise": "Funny, manageable inventions that almost work; observe the flaw, ask for help and improve the design.",
-      "status": "placeholder"
+      "status": "manuscript-and-interiors-complete-awaiting-pen-name-and-cover",
+      "actualStoryWords": 14372,
+      "actualPrintPages": 88
     },
     {
       "id": "kavero-everyday-detective",
@@ -44,16 +46,16 @@
   ],
   "format": {
     "approach": "text-led story collection with sparse black-and-white line art",
-    "targetStoryWordsPerBook": 12000,
-    "wordTargetStatus": "owner-selected",
-    "totalStoryWordsThreeBooks": 36000,
+    "targetStoryWordsPerBook": 14450,
+    "wordTargetStatus": "Book 1 approximate target approved",
+    "totalStoryWordsThreeBooks": null,
     "storiesPerBookRange": [
       15,
       20
     ],
     "proposedStories": 17,
-    "proposedWordsPerStory": 705.88,
-    "storyCountStatus": "Book 1: 17 after owner removals; final outline lock pending",
+    "proposedWordsPerStory": 850,
+    "storyCountStatus": "Book 1 approved:17; subsequent volumes planned independently",
     "printPagesPerStoryAim": 5,
     "proposedStoryPages": 75,
     "estimatedAdditionalPages": [
@@ -94,8 +96,8 @@
     }
   },
   "sharedCharacterFolder": "characters/kavero",
-  "draftingAuthorized": false,
-  "updatedAt": "2026-09-06T18:50:24.777925+00:00",
+  "draftingAuthorized": true,
+  "updatedAt": "2026-09-06T19:23:07.004784+00:00",
   "expansionPolicy": "Open-ended series; three initial book holders only.",
   "setting": {
     "country": null,

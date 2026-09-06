@@ -105,3 +105,13 @@ A worried Kavero tries to turn a cardboard tube into a diary detector. Retracing
 Original story 20. Characters: Kavero, Poppy, Pip, Toby, Granny, Mum, Dad, Fozzy, Miette.
 
 A machine combines question slips into gloriously impractical invention ideas. Granny draws an unexpected combination, and Kavero opens his diary to begin wondering again.
+
+
+## Production approval
+
+2026-09-06T18:53:55.534985+00:00 — Owner approved the current 17-story plan, cast and original warm-mischief style and authorized completion through editorial and interiors. Book 1 target ~14,450 words, 800–1,000 per story. Fozzy approved. Temporary author Prabhjee Kaur. Cover art and public manuscript upload remain outside scope. This supersedes earlier pending/proposal/no-drafting statements.
+
+
+## Production result
+
+17 stories written and producer-edited: 14,372 story words, 824–875 per story. Current print proof: 88 pages, five story pages each, 5.25 × 8 inches. DOCX and reflowable EPUB prepared with five monochrome motifs. Final pen name, copyright and cover pending; no cover created. Source and validation: BCC book project.
