@@ -4,7 +4,7 @@
  function choose(value,updateHash=false){
   tabs.forEach(t=>{const active=t.dataset.books===value;t.setAttribute('aria-selected',String(active));t.tabIndex=active?0:-1;});
   panels.forEach(p=>{p.hidden=p.id!=='book-'+value;});
-  if(updateHash)history.replaceState(null,'','#book-'+value);
+  if(updateHash){history.replaceState(null,'','#book-'+value);window.scrollTo({top:0,behavior:'instant'});}
  }
  tabs.forEach((tab,i)=>{
   tab.addEventListener('click',()=>choose(tab.dataset.books,true));

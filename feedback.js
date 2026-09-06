@@ -8,8 +8,8 @@
   status.className = 'feedback-status'; status.setAttribute('role', 'status');
   const panel = document.createElement('section');
   panel.className = 'feedback-panel';
-  panel.innerHTML = '<h2>Your story review</h2><p>Tap the heart to select a story; tap again to leave it out. Untouched stories remain “Not reviewed.” You can comment on any story.</p><label for="reviewer-name">Your name (optional)</label><input id="reviewer-name" maxlength="80" autocomplete="name"><div class="review-actions"><button type="button" id="download-feedback">Download feedback</button></div><p>Your draft is saved in this browser when storage is available. Downloading creates a file; it does not send your feedback.</p>';
-  document.querySelector('header').after(panel);
+  panel.innerHTML = '<input id="reviewer-name" aria-label="Reviewer name" placeholder="Name (optional)" maxlength="80" autocomplete="name"><div class="review-actions"><button type="button" id="download-feedback">Download backup</button></div>';
+  document.querySelector('.book-tabs').after(panel);
   panel.append(status);
   const name = panel.querySelector('input'); name.value = typeof state.name === 'string' ? state.name : '';
   function persist() {
@@ -37,9 +37,9 @@
     heart.addEventListener('click', () => { entry.selected = entry.selected !== true; redraw(); persist(); });
     const reset = document.createElement('button'); reset.type = 'button'; reset.className = 'reset-vote'; reset.textContent = 'Clear choice';
     reset.addEventListener('click', () => { entry.selected = null; redraw(); persist(); });
-    const label = document.createElement('label'); label.htmlFor = `comment-${id}`; label.textContent = 'Comment / suggested change';
-    const comment = document.createElement('textarea'); comment.id = label.htmlFor; comment.rows = 3; comment.maxLength = 2000; comment.value = entry.comment;
-    comment.placeholder = 'What would you keep, change, or replace?';
+    const label = document.createElement('label'); label.htmlFor = `comment-${id}`; label.textContent = 'Comment';
+    const comment = document.createElement('textarea'); comment.id = label.htmlFor; comment.rows = 2; comment.maxLength = 2000; comment.value = entry.comment;
+    comment.placeholder = 'Add a comment…';
     comment.addEventListener('input', () => { entry.comment = comment.value; persist(); });
     area.append(heart, reset, label, comment); card.append(area); redraw();
     card.dataset.storyId = id;
