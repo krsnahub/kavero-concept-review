@@ -5,81 +5,9 @@
       "number": 4,
       "title": "Kavero’s Kitchen Capers",
       "concept": "Big questions, small snacks, and a wonderfully messy kitchen: funny adventures in cooking, serving, and sharing, with adults handling heat and sharp tools.",
-      "status": "review-in-progress-not-drafting-approved",
+      "status": "awaiting-selection",
       "targetWords": 15000,
       "stories": [
-        {
-          "number": 17,
-          "id": "b4-s17",
-          "title": "The Rolling Lunch",
-          "summary": "Kavero decides every part of lunch should be round, but wrapping a round sandwich turns out to be easier than persuading it to stay on his plate.",
-          "characters": [
-            "Kavero",
-            "Granny",
-            "Poppy",
-            "Pip"
-          ],
-          "status": "additional-replacement-awaiting-review",
-          "batch": "replacement-options-r2"
-        },
-        {
-          "number": 18,
-          "id": "b4-s18",
-          "title": "The Secret Taste Test",
-          "summary": "Kavero organises a mystery fruit tasting, but Pip gives away every answer by shouting the fruit’s colour before Granny takes a bite.",
-          "characters": [
-            "Kavero",
-            "Granny",
-            "Pip",
-            "Toby"
-          ],
-          "status": "additional-replacement-awaiting-review",
-          "batch": "replacement-options-r2"
-        },
-        {
-          "number": 19,
-          "id": "b4-s19",
-          "title": "The Potato Guest List",
-          "summary": "Kavero and Millie give every potato a name before Mum cooks, then spend dinner politely asking whether anyone would like more Harold.",
-          "characters": [
-            "Kavero",
-            "Granny",
-            "Mum",
-            "Millie",
-            "Poppy"
-          ],
-          "status": "additional-replacement-awaiting-review",
-          "batch": "replacement-options-r2"
-        },
-        {
-          "number": 20,
-          "id": "b4-s20",
-          "title": "The Jelly Wobble Show",
-          "summary": "Kavero makes a grand speech to introduce Granny’s jelly, but its wobbling entrance gets more applause than anything he has rehearsed.",
-          "characters": [
-            "Kavero",
-            "Granny",
-            "Dad",
-            "Poppy",
-            "Toby"
-          ],
-          "status": "additional-replacement-awaiting-review",
-          "batch": "replacement-options-r2"
-        },
-        {
-          "number": 21,
-          "id": "b4-s21",
-          "title": "The Never-Ending Menu",
-          "summary": "Kavero keeps adding choices to his sandwich menu until Granny orders “whatever is ready”—and discovers nothing is.",
-          "characters": [
-            "Kavero",
-            "Granny",
-            "Pip",
-            "Toby"
-          ],
-          "status": "additional-replacement-awaiting-review",
-          "batch": "replacement-options-r2"
-        },
         {
           "number": 1,
           "id": "b4-s01",
@@ -191,9 +119,76 @@
           "title": "The Thank-You Supper",
           "summary": "Kavero plans a supper to thank Granny, then has to find her a special guest’s job that does not involve helping him make it.",
           "status": "awaiting-review"
+        },
+        {
+          "number": 17,
+          "id": "b4-s17",
+          "title": "The Rolling Lunch",
+          "summary": "Kavero decides every part of lunch should be round, but wrapping a round sandwich turns out to be easier than persuading it to stay on his plate.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Poppy",
+            "Pip"
+          ],
+          "status": "awaiting-review"
+        },
+        {
+          "number": 18,
+          "id": "b4-s18",
+          "title": "The Secret Taste Test",
+          "summary": "Kavero organises a mystery fruit tasting, but Pip gives away every answer by shouting the fruit’s colour before Granny takes a bite.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip",
+            "Toby"
+          ],
+          "status": "awaiting-review"
+        },
+        {
+          "number": 19,
+          "id": "b4-s19",
+          "title": "The Potato Guest List",
+          "summary": "Kavero and Millie give every potato a name before Mum cooks, then spend dinner politely asking whether anyone would like more Harold.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Mum",
+            "Millie",
+            "Poppy"
+          ],
+          "status": "awaiting-review"
+        },
+        {
+          "number": 20,
+          "id": "b4-s20",
+          "title": "The Jelly Wobble Show",
+          "summary": "Kavero makes a grand speech to introduce Granny’s jelly, but its wobbling entrance gets more applause than anything he has rehearsed.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Dad",
+            "Poppy",
+            "Toby"
+          ],
+          "status": "awaiting-review"
+        },
+        {
+          "number": 21,
+          "id": "b4-s21",
+          "title": "The Never-Ending Menu",
+          "summary": "Kavero keeps adding choices to his sandwich menu until Granny orders “whatever is ready”—and discovers nothing is.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip",
+            "Toby"
+          ],
+          "status": "awaiting-review"
         }
       ],
-      "revision": "replacement-options-r2",
+      "revision": "first-review-21-stories",
       "activeStoryCount": 21,
       "droppedStoryNumbers": []
     },
@@ -201,79 +196,9 @@
       "number": 5,
       "title": "Kavero’s Outdoor Escapades",
       "concept": "Small adventures in the garden, park, and neighbourhood: Kavero explores with Granny and his friends, discovering how much there is to notice close to home.",
-      "status": "review-in-progress-not-drafting-approved",
+      "status": "awaiting-selection",
       "targetWords": 15000,
       "stories": [
-        {
-          "number": 17,
-          "id": "b5-s17",
-          "title": "The Snail Grandstand",
-          "summary": "The friends build seats to watch a snail cross the path, but while they argue about the best view, their star quietly leaves in the other direction.",
-          "characters": [
-            "Kavero",
-            "Granny",
-            "Poppy",
-            "Pip"
-          ],
-          "status": "additional-replacement-awaiting-review",
-          "batch": "replacement-options-r2"
-        },
-        {
-          "number": 18,
-          "id": "b5-s18",
-          "title": "The Worm Roadblock",
-          "summary": "Kavero pauses their garden game for a worm crossing the path, and Pip announces traffic updates while Granny patiently waits with the ball.",
-          "characters": [
-            "Kavero",
-            "Granny",
-            "Pip",
-            "Toby"
-          ],
-          "status": "additional-replacement-awaiting-review",
-          "batch": "replacement-options-r2"
-        },
-        {
-          "number": 19,
-          "id": "b5-s19",
-          "title": "The Very Short Safari",
-          "summary": "Kavero promises to show Millie amazing wildlife, but she is most impressed by a pigeon having a bath in a plant saucer.",
-          "characters": [
-            "Kavero",
-            "Granny",
-            "Millie",
-            "Poppy"
-          ],
-          "status": "additional-replacement-awaiting-review",
-          "batch": "replacement-options-r2"
-        },
-        {
-          "number": 20,
-          "id": "b5-s20",
-          "title": "The Daisy Detective Club",
-          "summary": "Kavero searches for a four-leaf clover while Pip counts every leaf on every plant, until Granny gently points out that his best discovery is a daisy.",
-          "characters": [
-            "Kavero",
-            "Granny",
-            "Pip",
-            "Toby"
-          ],
-          "status": "additional-replacement-awaiting-review",
-          "batch": "replacement-options-r2"
-        },
-        {
-          "number": 21,
-          "id": "b5-s21",
-          "title": "The Pebble Portrait",
-          "summary": "Kavero makes a portrait of Granny with loose garden pebbles, but every friend who adds a feature insists it looks exactly like somebody else.",
-          "characters": [
-            "Kavero",
-            "Granny",
-            "Poppy",
-            "Toby"
-          ],
-          "status": "additional-replacement-awaiting-review",
-          "batch": "replacement-options-r2"
-        },
         {
           "number": 1,
           "id": "b5-s01",
@@ -385,9 +310,74 @@
           "title": "The Grand Outdoor Report",
           "summary": "Kavero invites the family to hear his report of the neighbourhood, but Granny’s favourite discoveries are the funny little moments he forgot to put on his map.",
           "status": "awaiting-review"
+        },
+        {
+          "number": 17,
+          "id": "b5-s17",
+          "title": "The Snail Grandstand",
+          "summary": "The friends build seats to watch a snail cross the path, but while they argue about the best view, their star quietly leaves in the other direction.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Poppy",
+            "Pip"
+          ],
+          "status": "awaiting-review"
+        },
+        {
+          "number": 18,
+          "id": "b5-s18",
+          "title": "The Worm Roadblock",
+          "summary": "Kavero pauses their garden game for a worm crossing the path, and Pip announces traffic updates while Granny patiently waits with the ball.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip",
+            "Toby"
+          ],
+          "status": "awaiting-review"
+        },
+        {
+          "number": 19,
+          "id": "b5-s19",
+          "title": "The Very Short Safari",
+          "summary": "Kavero promises to show Millie amazing wildlife, but she is most impressed by a pigeon having a bath in a plant saucer.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Millie",
+            "Poppy"
+          ],
+          "status": "awaiting-review"
+        },
+        {
+          "number": 20,
+          "id": "b5-s20",
+          "title": "The Daisy Detective Club",
+          "summary": "Kavero searches for a four-leaf clover while Pip counts every leaf on every plant, until Granny gently points out that his best discovery is a daisy.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip",
+            "Toby"
+          ],
+          "status": "awaiting-review"
+        },
+        {
+          "number": 21,
+          "id": "b5-s21",
+          "title": "The Pebble Portrait",
+          "summary": "Kavero makes a portrait of Granny with loose garden pebbles, but every friend who adds a feature insists it looks exactly like somebody else.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Poppy",
+            "Toby"
+          ],
+          "status": "awaiting-review"
         }
       ],
-      "revision": "replacement-options-r2",
+      "revision": "first-review-21-stories",
       "activeStoryCount": 21,
       "droppedStoryNumbers": []
     }
