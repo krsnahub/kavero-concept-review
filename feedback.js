@@ -45,7 +45,7 @@
     card.dataset.storyId = id;
   });
   function review() {
-    return { schemaVersion: 1, conceptRevision: 'ecb9c3e', reviewer: name.value.trim(), createdAt: new Date().toISOString(), stories: cards.map(card => ({id: card.dataset.storyId, title: card.querySelector('h3').textContent, ...state[card.dataset.storyId]})) };
+    return { schemaVersion: 1, conceptRevision: 'ecb9c3e', catalogRevision: 'books-04-05-r1', reviewer: name.value.trim(), createdAt: new Date().toISOString(), stories: cards.map(card => ({id: card.dataset.storyId, title: card.querySelector('h3').textContent, ...state[card.dataset.storyId]})) };
   }
   panel.querySelector('#download-feedback').addEventListener('click', () => {
     const blob = new Blob([JSON.stringify(review(), null, 2)], {type:'application/json'});
