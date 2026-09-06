@@ -1,0 +1,743 @@
+{
+  "author": "Jinny Sparks",
+  "books": [
+    {
+      "number": 6,
+      "title": "Kavero’s Little Laboratory",
+      "concept": "Small, supervised experiments with everyday objects: Kavero makes bold predictions, gets funny surprises, and tries again. These are stories, not step-by-step experiment instructions.",
+      "status": "proposed-awaiting-review",
+      "targetWords": 15000,
+      "revision": "books-06-08-r1",
+      "stories": [
+        {
+          "id": "b6-s01",
+          "number": 1,
+          "title": "The Ice-Cube Overcoat",
+          "summary": "Kavero dresses an ice cube in a tiny woolly coat to keep it warm, then has to explain to Granny why the undressed cube melted first.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s02",
+          "number": 2,
+          "title": "The Bubble Blame Game",
+          "summary": "Pip blames the wind, his nose and Tuesday for bursting bubbles, until Kavero notices that his dry finger pops every bubble he tries to catch.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s03",
+          "number": 3,
+          "title": "The Pepper Traffic Jam",
+          "summary": "Floating pepper rushes away from a soapy finger, and Kavero appoints Granny traffic officer while he tries to work out where it can possibly park.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s04",
+          "number": 4,
+          "title": "The Balloon Hair Salon",
+          "summary": "A rubbed balloon lifts Kavero’s curls, but his new salon loses its only customer when Granny decides her hair is exciting enough already.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s05",
+          "number": 5,
+          "title": "The Raisin Swimming Club",
+          "summary": "Raisins bob up and down in sparkling water, leaving Kavero trying to award a swimming medal to a contestant that refuses to finish.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s06",
+          "number": 6,
+          "title": "The Penny Passengers",
+          "summary": "Kavero’s foil boat sinks under its tiny passengers; Poppy suggests a wider boat while Pip proposes giving the pennies swimming lessons.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Poppy",
+            "Pip"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s07",
+          "number": 7,
+          "title": "The Paper Bridge Queue",
+          "summary": "A flat paper bridge sags under a toy car, but folding it changes everything—except Pip’s insistence that the car needs a smaller lunch.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s08",
+          "number": 8,
+          "title": "The Hungry Paper Towel",
+          "summary": "Water creeps up a paper towel, and Kavero wonders whether Granny’s kitchen roll has been drinking without permission.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s09",
+          "number": 9,
+          "title": "The Magnet Job Interview",
+          "summary": "Kavero interviews a magnet for a tidying job, only to discover it picks up paper clips beautifully and ignores almost everything else.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s10",
+          "number": 10,
+          "title": "The Spinning Egg Audition",
+          "summary": "Granny gives Kavero a raw egg and a hard-boiled one to compare, and his spinning contest becomes a search for which contestant has a wobbly inside.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s11",
+          "number": 11,
+          "title": "The Orange Life Jacket",
+          "summary": "An orange floats with its peel on but sinks when peeled, spoiling Pip’s theory that swimmers should always take their coats off.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s12",
+          "number": 12,
+          "title": "The Missing Sugar",
+          "summary": "Sugar vanishes into Granny’s tea, and Kavero investigates a disappearance that Granny insists she can still taste.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s13",
+          "number": 13,
+          "title": "The Spoon Orchestra",
+          "summary": "Tapping glasses with different amounts of water gives Kavero different notes, but Granny keeps drinking the tune.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s14",
+          "number": 14,
+          "title": "The Stubborn Water Drop",
+          "summary": "Kavero tries to persuade a water drop to spread across waxed paper, while Pip names the little bead and asks whether it can stay for lunch.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s15",
+          "number": 15,
+          "title": "The Paper Helicopter Landing",
+          "summary": "Two folded paper spinners fall differently, and Kavero’s carefully marked landing pad remains the one place neither chooses to visit.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s16",
+          "number": 16,
+          "title": "The Biscuit Sound Test",
+          "summary": "Kavero discovers his own crunch sounds louder with his ears covered, then struggles to explain the experiment while Granny waits for him to finish chewing.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s17",
+          "number": 17,
+          "title": "The Upside-Down Seed",
+          "summary": "Kavero plants a bean upside down to confuse it, but its root grows down anyway and Granny declares the bean an excellent listener.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s18",
+          "number": 18,
+          "title": "The Shadow Puppet Giant",
+          "summary": "Moving a paper puppet nearer a torch makes its shadow enormous, and Toby worries their tiny theatre will need a much bigger door.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Toby"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s19",
+          "number": 19,
+          "title": "The Paper Flower Surprise",
+          "summary": "Folded paper petals open on water, but Kavero’s grand introduction lasts so long that Granny’s flower finishes blooming before he gets to its name.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b6-s20",
+          "number": 20,
+          "title": "The Bendy Pencil",
+          "summary": "A pencil looks bent in a glass of water, and Kavero keeps pulling it out to inspect it while Pip congratulates him on another successful repair.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip"
+          ],
+          "status": "proposed-awaiting-review"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Kavero’s School-Day Surprises",
+      "concept": "Classroom projects, playground misunderstandings and small school responsibilities become warm comic adventures. Ms Reed guides without humiliation; Granny helps with preparations and hears the surprising results.",
+      "status": "proposed-awaiting-review",
+      "targetWords": 15000,
+      "revision": "books-06-08-r1",
+      "stories": [
+        {
+          "id": "b7-s01",
+          "number": 1,
+          "title": "The Show-and-Tell Pocket",
+          "summary": "Kavero forgets his show-and-tell object, then discovers that the contents of his pockets need more explaining than the object ever did.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s02",
+          "number": 2,
+          "title": "The Very Long Question",
+          "summary": "Asked to bring one question to class, Kavero joins six with “and,” leaving Ms Reed deciding where the first answer should begin.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s03",
+          "number": 3,
+          "title": "The Library Whisper",
+          "summary": "Pip’s enormous whisper carries across the library, so Kavero demonstrates a quieter one that nobody can hear—including Pip.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s04",
+          "number": 4,
+          "title": "The Plant Monitor",
+          "summary": "Kavero writes a daily report on the classroom plant, and his greatest challenge is making “still a plant” sound like breaking news.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s05",
+          "number": 5,
+          "title": "The Class Photo Gap",
+          "summary": "Kavero saves a space in the class photograph for an absent friend, inspiring the class to hold up their friend’s drawing in the gap.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s06",
+          "number": 6,
+          "title": "The Lost-Property Parade",
+          "summary": "Helping sort lost property, Kavero models three scarves and a tiny hat to find their owners, then cannot remember which scarf belongs to him.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s07",
+          "number": 7,
+          "title": "The Silent Line Leader",
+          "summary": "Kavero leads the class with elaborate hand signals, but the queue keeps stopping because everyone thinks he is starting a new game.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s08",
+          "number": 8,
+          "title": "The Giant Group Poster",
+          "summary": "Each friend draws a different part of their poster without comparing sizes, leaving a tiny town populated by one enormous duck.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s09",
+          "number": 9,
+          "title": "The Pencil-Case Concert",
+          "summary": "A rattling pencil case interrupts Kavero’s quiet reading, and every attempt to remove the noisy object starts a louder performance.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s10",
+          "number": 10,
+          "title": "The Almost-Finished Story",
+          "summary": "Kavero writes “The End” to finish his class story, then adds so many last-minute adventures that the ending needs its own page.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s11",
+          "number": 11,
+          "title": "The Classroom Tour",
+          "summary": "Showing a new pupil around, Kavero explains the best puddle and the squeaky step but forgets to point out their classroom.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s12",
+          "number": 12,
+          "title": "The Backstage Tree",
+          "summary": "Cast as a tree in the school play, Kavero prepares excellent leaves with Granny but must learn when a helpful tree should stop giving the actors directions.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s13",
+          "number": 13,
+          "title": "The Desk Treasure Map",
+          "summary": "Kavero maps his cluttered desk to find things faster, then has to ask Toby to help find the map.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Toby",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s14",
+          "number": 14,
+          "title": "The Weather Reporter",
+          "summary": "Kavero’s school weather announcement lists every possible forecast, and Poppy suggests starting by looking out of the window.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Poppy",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s15",
+          "number": 15,
+          "title": "The Partner Drawing",
+          "summary": "Toby describes a picture while Kavero draws without seeing it, producing a remarkably cheerful elephant where a watering can should be.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Toby",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s16",
+          "number": 16,
+          "title": "The Question Box",
+          "summary": "Kavero volunteers to collect anonymous class questions, but everyone recognises the six that begin “What if my puppy…”",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s17",
+          "number": 17,
+          "title": "The Reading Relay",
+          "summary": "The friends take turns reading a funny scene aloud, and Pip gives the same enormous voice to the giant, the mouse and the narrator.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s18",
+          "number": 18,
+          "title": "The Thank-You Banner",
+          "summary": "Kavero makes a banner for the school caretaker, but his explanation of every helpful deed stretches beyond the paper and halfway across Granny’s floor.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s19",
+          "number": 19,
+          "title": "The Tidy Tray Trouble",
+          "summary": "Kavero sorts shared classroom supplies by colour, leaving Poppy hunting through five trays for five differently coloured pencils.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Poppy",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b7-s20",
+          "number": 20,
+          "title": "The Best Part Report",
+          "summary": "Asked to write his favourite part of the school trip, Kavero chooses the bus conversation with Toby—and Granny helps him see why that counts too.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Toby",
+            "Ms Reed"
+          ],
+          "status": "proposed-awaiting-review"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Kavero’s Party Plans",
+      "concept": "Invitations, games, performances and little celebrations: Kavero tries to make everyone happy, while Granny helps him leave room for the guests to have ideas of their own.",
+      "status": "proposed-awaiting-review",
+      "targetWords": 15000,
+      "revision": "books-06-08-r1",
+      "stories": [
+        {
+          "id": "b8-s01",
+          "number": 1,
+          "title": "The Invitation Puzzle",
+          "summary": "Kavero draws party invitations without words, and Toby arrives with a pillow because the birthday cake looked like a bed.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Toby"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s02",
+          "number": 2,
+          "title": "The Doorbell Committee",
+          "summary": "Everyone wants to welcome the first guest, leaving Granny to welcome the next five while the children rehearse their greeting.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s03",
+          "number": 3,
+          "title": "The Balloon Name Tags",
+          "summary": "Kavero gives each guest a name balloon, but the balloons drift between chairs and Dad spends lunch answering to Poppy.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Poppy",
+            "Dad"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s04",
+          "number": 4,
+          "title": "The Musical Cushion",
+          "summary": "There is one cushion for every player in Kavero’s friendly music game, yet Fozzy keeps choosing the one Kavero is about to sit on.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Fozzy"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s05",
+          "number": 5,
+          "title": "The Treasure Map Mix-Up",
+          "summary": "Kavero draws a treasure map from his own viewpoint, sending his friends to the wrong side of every landmark until Granny turns it around.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s06",
+          "number": 6,
+          "title": "The Endless Welcome Speech",
+          "summary": "Kavero thanks everyone for coming, then thanks everyone for listening, while Pip wonders whether they should applaud to make him stop or keep him going.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s07",
+          "number": 7,
+          "title": "The Fancy-Dress Label",
+          "summary": "Nobody recognises Kavero’s homemade costume, so he adds helpful labels until Granny can no longer see what he is dressed as.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s08",
+          "number": 8,
+          "title": "The Magic-Wand Substitute",
+          "summary": "Kavero loses his pretend magic wand before his show, and Granny’s wooden spoon becomes a much funnier replacement when Pip expects it to produce soup.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s09",
+          "number": 9,
+          "title": "The Pass-the-Parcel Pause",
+          "summary": "The music stops on Granny, but she is so busy cheering for everyone else that the parcel completes another lap before she notices.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s10",
+          "number": 10,
+          "title": "The Birthday Chair",
+          "summary": "Kavero decorates a special chair for Mum, then has to remove half the decorations so the guest of honour can actually use it.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Mum"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s11",
+          "number": 11,
+          "title": "The Smallest Parade",
+          "summary": "Millie wants a parade without a long walk, so Kavero leads a grand procession around Granny’s armchair and announces every lap as a new destination.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Millie"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s12",
+          "number": 12,
+          "title": "The Guessing Jar",
+          "summary": "Kavero carefully counts every button for a guessing game, then adds one beautiful button and forgets whether he counted that one already.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s13",
+          "number": 13,
+          "title": "The Two-Person Dragon",
+          "summary": "Kavero and Toby make a two-person costume, but their dragon keeps walking towards two different party games.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Toby"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s14",
+          "number": 14,
+          "title": "The Party Photographer",
+          "summary": "Kavero arranges perfect photographs while Granny catches the funny faces between poses, and everyone prefers her pictures.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s15",
+          "number": 15,
+          "title": "The Guest of Honour",
+          "summary": "Kavero organises a thank-you party for Mr Bell, who arrives ready to fix the decorations and has to be persuaded to put his toolbox down.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Mr Bell"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s16",
+          "number": 16,
+          "title": "The Rainy Garden Party",
+          "summary": "Rain sends Kavero’s garden party indoors, where a pretend picnic beneath the dining table becomes more popular than his original plan.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s17",
+          "number": 17,
+          "title": "The Applause Rehearsal",
+          "summary": "Pip teaches everyone a spectacular cheer for Granny’s entrance, but they practise so enthusiastically that she comes in early to see what she has missed.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Pip"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s18",
+          "number": 18,
+          "title": "The Party Bag Puzzle",
+          "summary": "Kavero makes every party bag exactly the same, until Millie asks to swap her puzzle for the drawing Poppy would rather give away.",
+          "characters": [
+            "Kavero",
+            "Granny",
+            "Poppy",
+            "Millie"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s19",
+          "number": 19,
+          "title": "The Last Game Vote",
+          "summary": "The guests vote for one final game, and Kavero discovers that everyone’s favourite is the silly waiting game they invented while he counted.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        },
+        {
+          "id": "b8-s20",
+          "number": 20,
+          "title": "The Morning-After Celebration",
+          "summary": "Tidying the party with Granny, Kavero finds a forgotten paper crown and declares her Queen of Finding Things Under Chairs.",
+          "characters": [
+            "Kavero",
+            "Granny"
+          ],
+          "status": "proposed-awaiting-review"
+        }
+      ]
+    }
+  ]
+}
